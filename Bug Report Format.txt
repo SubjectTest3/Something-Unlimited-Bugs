@@ -1,6 +1,6 @@
 The title of the issue (bug report) should have the character and location of the bug.
 In the comment, give a short description of the bug and how the circumstances leading up to the bugs.
-Use the label "bug"
+Use the label "bug" and the label of the character's name
 Set the milestone to the version number
 Finally, if possible, include a file of a screenshot of the bug.
 
