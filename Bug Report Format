@@ -1,0 +1,10 @@
+The title of the issue (bug report) should have the version the bug was found on first.
+Follow that with the character and location of the bug.
+In the comment, give a short description of the bug and how the circumstances leading up to the bugs.
+Finally, if possible, include a a file of a screenshot of the bug.
+
+Example:
+Title: 2.2.1 Raven Vault
+Comment: The spank scene selection for Raven in the vault leads to nowhere and freezes the game. I had to
+restart the game in order to unfreeze and continue.
+Screenshot: (Imagine there's a file of a screenshot here)
