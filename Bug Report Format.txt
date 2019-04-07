@@ -1,11 +1,12 @@
 The title of the issue (bug report) should have the character and location of the bug.
-In the comment, give a short description of the bug and how the circumstances leading up to the bugs.
+In the comment, give a short description of the bug and if necessary, the circumstances leading up to the bugs.
 Use the label "bug" and the label of the character's name
 Set the milestone to the version number
 Finally, if possible, include a file of a screenshot of the bug.
 
 Example:
-Title: 2.2.1 Raven Vault
+Title: Raven Vault
+Labels: Raven, bug
 Comment: The spank scene selection for Raven in the vault leads to nowhere and freezes the game.
 Had to restart game in order to continue
 Screenshot: (Imagine there's a file of a screenshot here)
