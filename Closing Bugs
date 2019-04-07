@@ -1,0 +1,2 @@
+When a new version is released, we'll add the new changelog to a new branch.
+In the commit message/pull request, write "close #[issue number]".
